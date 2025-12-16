@@ -16,6 +16,5 @@ The goal of this project was to create a clean, user-friendly experience while a
 
 ## ✨ Features
 - Responsive design for desktop and mobile
-- Projects section with descriptions
 - About Me section
 - Simple and intuitive navigation
